@@ -4,20 +4,26 @@ var config = {
     // Try not to exceed 15 characters per sentence, otherwise the display effect may not be very good
     texts: [
         //Here, the last comma at the end of each sentence must be in English!! blushyyyVery important!!
-        "Happiest birthday to my number one, my human diary", // ditto...
-        "my sweetest friend <br/> blushyyy",
+        "Happiest birthday to my number one", // ditto...
+        "my human diary",
+        "my sweetest friend",
+        "♡Saira♡",
         "there's so much I want to say and express",
         "but i don't know how to write it down here",
-        "Just Thank you for being this person that you are",
-        "i feel grateful to have crossed paths with you",
+        "Just Thank you",
+        "for being this person that you are",
+        "i feel grateful...",
+        "to have crossed paths with you",
         "and grateful to have known you ",
         "My wish for you is that...",
         "this life becomes all that you want",
         "your dreams stay big",
         "worries stay small",
         "And while you're out there getting where your getting to...",
-        "I hope you know somebody loves you and wants the same things too",
-        "Yeah this is my wish for you <br/> Enjoy Your day :)"
+        "I hope you know somebody loves you",
+        "and wants the same things too",
+        "Yeah this is my wish for you",
+        "Enjoy Your day :)"
     ],
     /**
      * imgs can be left blank, but if you want to fill in, you must follow the format below
@@ -40,7 +46,7 @@ var config = {
         balloons_flying: "Looks like something is missing",
         cake_fadein: "Cake?",
         light_candle: "Candle?",
-        wish_message: "Happy Birthday :) <br/> (Click Again)",
+        wish_message: "Hope you liked it :) <br/> (Click Again)",
         story: "A MESSAGE FOR YOU",
         
     }

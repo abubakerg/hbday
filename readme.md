@@ -79,4 +79,4 @@ var config = {
 * [第二期: :cake:改改数据,为心爱的人做一个超具创意的网页生日祝福吧~ (生日快乐)](https://github.com/AJLoveChina/birthday)
 * [第三期: :balloon:塞纳河畔，左岸的咖啡。告白气球，飞入我的心扉。](https://github.com/AJLoveChina/loveBalloon)
 
-* <img src="https://t.bkit.co/w_64f0dbc4dcbb6.gif" />
+  <img src="https://t.bkit.co/w_64f0dbc4dcbb6.gif" />
